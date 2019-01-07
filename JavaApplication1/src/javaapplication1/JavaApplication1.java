@@ -21,3 +21,4 @@ public class JavaApplication1 {
 }
 
 //Hej med dig
+//Kvinder er seje
