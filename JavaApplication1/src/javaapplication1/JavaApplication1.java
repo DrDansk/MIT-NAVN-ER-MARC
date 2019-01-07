@@ -19,7 +19,5 @@ public class JavaApplication1 {
     }
     
 }
-skjdsilkdhslidh
-        osdhisdhsidh
-sdisiodhsidho
+
 //Hej med dig
